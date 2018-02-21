@@ -28,5 +28,4 @@ def main():
     print("Got the up side After Toss :[", start_toss.get_upperside(), "]")
 
 
-# Call the main function.
 main()
